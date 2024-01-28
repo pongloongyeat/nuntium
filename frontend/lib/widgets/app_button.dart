@@ -1,4 +1,5 @@
-part of 'widgets.dart';
+import 'package:flutter/material.dart';
+import 'package:frontend/data/data.dart';
 
 enum AppButtonStyle {
   primary,

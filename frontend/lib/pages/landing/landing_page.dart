@@ -1,4 +1,6 @@
-part of '../pages.dart';
+import 'package:flutter/material.dart';
+import 'package:frontend/data/data.dart';
+import 'package:frontend/widgets/widgets.dart';
 
 enum _LandingPageCarousel { item1, item2, item3 }
 

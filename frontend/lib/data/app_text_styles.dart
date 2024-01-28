@@ -1,4 +1,5 @@
-part of 'data.dart';
+import 'package:flutter/material.dart';
+import 'package:frontend/data/data.dart';
 
 final class AppTextStyles {
   const AppTextStyles._();

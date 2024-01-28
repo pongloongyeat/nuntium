@@ -1,4 +1,9 @@
-part of 'widgets.dart';
+import 'dart:async';
+
+import 'package:collection/collection.dart';
+import 'package:flutter/material.dart';
+import 'package:frontend/data/data.dart';
+import 'package:frontend/extensions/extensions.dart';
 
 class CarouselCard extends StatelessWidget {
   const CarouselCard({
