@@ -1,4 +1,4 @@
-part of 'constants.dart';
+part of 'data.dart';
 
 final class AppTextStyles {
   const AppTextStyles._();

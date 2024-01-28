@@ -1,4 +1,4 @@
-part of 'constants.dart';
+part of 'data.dart';
 
 final class AppColors {
   const AppColors._();
